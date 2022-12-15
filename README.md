@@ -2,4 +2,4 @@
 
 
 
-![](./assets/rabbit.jpeg)
+![](./Assets/rabbit.jpeg)
